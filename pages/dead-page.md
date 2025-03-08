@@ -1,5 +1,7 @@
 ---
-title: Here's the best page
-layout: page
-permalink: /winston.html
+title: Dead Projects
+layout: about
+permalink: /dead-projects.html
+# include CollectionBuilder info at bottom
+credits: true
 ---
